@@ -1,7 +1,7 @@
 # PONG 
 
 ## Description
-This is a simple PONG game developed in C++ using the Raylib library. The game is a digital version of the classic arcade game Pong, where one players control paddles to bounce the ball and score points.
+This is a simple PONG game developed in C++ using the Raylib library. The game is a version of the classic arcade game Pong, where one players control paddles to bounce the ball and score points.
 
 ## Features
 - Paddle control for human player
